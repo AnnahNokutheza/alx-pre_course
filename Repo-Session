@@ -1,6 +1,6 @@
-cd alx-pre_course (enter)
-mkdir 0x01-git (enter)
-cd 0xo1-git (enter)
-echo 'my second commit'>README.md (enter)
-git commit 'my second commit' (enter)
-git push origion main (enter)
+Directory: 0x01-git
+README.md: Hi, I am @AnnahNokutheza, currently Alx.student
+Root of repository: alx-pre_course
+Directory: 01x01-git
+Commit: code Github
+Push: code to Github
