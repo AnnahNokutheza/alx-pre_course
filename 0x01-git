@@ -1,5 +1,3 @@
-$ mkdir 0x01-git
-$ cd 0x01-git
 $ git add README.md
 $ cd /root alx-pre_course
 $ cd 0x01-git
