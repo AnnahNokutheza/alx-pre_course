@@ -1,5 +1,4 @@
 $ git add README.md
 $ cd /root alx-pre_course
-$ cd 0x01-git
 $ git commit current project to server github
 $ git push local database to current server github
