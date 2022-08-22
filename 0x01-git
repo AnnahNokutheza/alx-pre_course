@@ -1,8 +1,8 @@
-create a new directory called 01x01-git
-cd alx-pre_course
-mkdir 0x01-git
-cd 0x01-git
-echo 'Some text for this read me'> README.md
-git add.
-git commit -m 'My second commit
-git push
+$ git create a new directory called 01x01-git
+$ git cd alx-pre_course
+$ git mkdir 0x01-git
+$ git cd 0x01-git
+$ git echo 'Some text for this read me'> README.md
+$ git add
+$ git commit -'My second commit'
+$ git push
