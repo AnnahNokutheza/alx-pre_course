@@ -3,6 +3,8 @@ mkdir c
 mkdir js
 cd..
 cd js
+git touch c/c_is_fun.c
+git index c/c_is_fun.c
 git touch main.js
 git touch index.js
 cd..
