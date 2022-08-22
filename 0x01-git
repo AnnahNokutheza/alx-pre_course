@@ -8,7 +8,12 @@ git index c/c_is_fun.c
 git touch main.js
 git touch index.js
 cd..
-git cd bash
+git touch bash/alx
+git index bash
+echo!/bin/bash'>"ALX"
+echo "School">>school
+git touch bash/school
+git index bash/school
 echo!/bin/bash'>school
 echo "School">>school
 git add.
