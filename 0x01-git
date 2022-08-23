@@ -1,13 +1,1 @@
-mkdir bash
-mkdir c
-mkdir js
-cd..
-cd js
-git touch main.js
-git touch index.js
-cd..
-echo!/bin/bash'>"ALX"
-echo "School">>school
-git add.
-git commit -m 'Starting to code today.so cool
-git push
+
